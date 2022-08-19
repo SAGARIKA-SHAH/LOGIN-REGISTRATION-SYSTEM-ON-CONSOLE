@@ -10,6 +10,39 @@ Login and Registration code using file handling on console language python.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def Signup():
     users = open(r"C:\Users\shah4\OneDrive\Desktop\users.txt", 'a+')
     users = open(r"C:\Users\shah4\OneDrive\Desktop\users.txt", "r")
